@@ -2,6 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Build Status](https://travis-ci.org/nickcannariato/site.svg?branch=master)](https://travis-ci.org/nickcannariato/site)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4de4dcb6-980c-4269-996b-2aa1575c0c2e/deploy-status)](https://app.netlify.com/sites/nickcannariato/deploys)
 
 > The personal site of @nickcannariato
 
